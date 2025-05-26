@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int main()
-{ start:
+{ 
+  start:
   int row,col,arr[100][100];
   cout<<"Enter the Size of Row in the Matrix : ";
   cin>>row;
