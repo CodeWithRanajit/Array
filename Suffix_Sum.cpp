@@ -24,6 +24,5 @@ int main()
  }
  cout<<endl;
  goto start;
-
   return 0;
 }
